@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-fold-mode-by-frontmatter",
+	"name": "Force note fold mode",
+	"version": "1.0.0",
+	"minAppVersion": "0.9.12",
+	"description": "Insp. by Benny Wydooghe, this plugin allows to force fold all headings in a note by using front matter",
+	"author": "D.Zurg",
+	"authorUrl": "https://github.com/drunkzurg",
+	"isDesktopOnly": false
+}
