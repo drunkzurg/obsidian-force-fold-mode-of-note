@@ -16,6 +16,7 @@ Similar, ... add below snippet to your note ...
 ---
 HeaderState: unfold
 ---
+
 ```
 ... and this will force the note to unfold all headings & lists.
 
