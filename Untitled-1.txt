@@ -10,6 +10,6 @@ obsidianUIMode > HeaderState
 ["fold", "collapse", "on"]
 app.commands.commands
 ViewModeByFrontmatterSettings > FoldModeByFrontmatterSettings > ViewModeByCommandSettings
-ViewModeByFrontmatterPlugin>>
+ViewModeByFrontmatterPlugin>>>
 ViewModeByFrontmatterSettingTab
 
